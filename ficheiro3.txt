@@ -1,4 +1,9 @@
-este é o fi heiro 3
-mudei
-estas linhas todas
+Este é o exemplo de um ficheiro de texto file3
 
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffe</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
