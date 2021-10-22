@@ -1,2 +1,5 @@
 Este é o exemplo de um ficheiro de texto
 fiz uma alteração
+
+
+Alteração no branch MASTER
